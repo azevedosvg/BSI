@@ -1,0 +1,18 @@
+.excelente {
+  color: #00ff88;
+  font-weight: bold;
+}
+
+.bom {
+  color: #4da6ff;
+  font-weight: bold;
+}
+
+.regular {
+  color: #ffaa00;
+  font-weight: bold;
+}
+
+.insuficiente {
+  color: #ff4d4d;
+}

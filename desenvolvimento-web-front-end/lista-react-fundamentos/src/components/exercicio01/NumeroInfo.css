@@ -1,0 +1,17 @@
+.resultado {
+  font-size: 22px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.zero {
+  color: #aaa;
+}
+
+.par {
+  color: #00ff88;
+}
+
+.impar {
+  color: #ff0088;
+}

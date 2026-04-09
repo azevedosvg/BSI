@@ -1,0 +1,17 @@
+.ativo {
+  color: #00ff88;
+  font-weight: bold;
+  font-size: 22px;
+}
+
+.inativo {
+  color: #ff0088;
+  font-weight: bold;
+  font-size: 22px;
+}
+
+.status {
+  font-size: 22px;
+  font-weight: bold;
+  color: white;
+}

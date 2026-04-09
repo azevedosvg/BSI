@@ -1,0 +1,29 @@
+.perfil {
+  background: #fff;
+  padding: 25px;
+  width: 320px;
+  border-radius: 15px;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+  text-align: center;
+  transition: transform 0.2s ease;
+}
+
+.perfil:hover {
+  transform: scale(1.02);
+}
+
+.perfil h2 {
+  margin-bottom: 15px;
+  color: #333;
+  border-bottom: 2px solid #eee;
+  padding-bottom: 5px;
+}
+
+.perfil p {
+  margin: 10px 0;
+  color: #555;
+}
+
+.perfil strong {
+  color: #222;
+}

@@ -1,0 +1,11 @@
+.estoque {
+  color: #00ff88;
+  font-weight: bold;
+  font-size: 22px;
+}
+
+.esgotado {
+  color: #ff4d4d;
+  font-weight: bold;
+  font-size: 22px;
+}
