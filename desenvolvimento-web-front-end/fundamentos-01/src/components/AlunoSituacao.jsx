@@ -1,6 +1,5 @@
 // Esse componente recebe dados via "props";
 // (props) são como parâmetros passados para o componente.
-
 function AlunoSituacao(props) {
   // Aqui usamos um operador ternário:
   // se a nota for >= 7 -> retorna "Aprovado"
