@@ -2,7 +2,8 @@
 // cloneElement permite modificar um elemento filho (adicionar props, por exemplo)
 import React, { cloneElement } from "react";
 
-// O que esse componente faz? Pega todos os filhos dentro de <Familia> e injeta as props do pai em cada filho automaticamente.
+// O que esse componente faz?
+// Pega todos os filhos dentro de <Familia> e injeta as props do pai em cada filho automaticamente.
 
 export default function Familia(props) {
   return (
