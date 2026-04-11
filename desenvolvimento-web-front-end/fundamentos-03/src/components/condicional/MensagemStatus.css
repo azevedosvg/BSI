@@ -1,0 +1,17 @@
+.box {
+  background-color: white;
+  padding: 10px;
+  margin: 10px auto;
+  border-radius: 8px;
+  width: 80%;
+}
+
+.aprovado {
+  color: green;
+  font-weight: bold;
+}
+
+.reprovado {
+  color: red;
+  font-weight: bold;
+}

@@ -1,0 +1,13 @@
+.box {
+  padding: 10px 0;
+}
+
+.par {
+  font-weight: bold;
+  color: blue;
+}
+
+.impar {
+  font-weight: bold;
+  color: red;
+}
