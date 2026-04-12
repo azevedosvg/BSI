@@ -1,18 +1,31 @@
+/* novo */
+.botoes {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 5px;
+}
+
 .botoes button {
-  padding: 8px 12px;
+  padding: 15px;
+  font-size: 16px;
   margin: 3px;
   border: none;
-  background-color: #333;
+  background: #222;
   color: white;
   cursor: pointer;
-  border-radius: 4px;
+  border-radius: 10px;
 }
 
 .botoes button:hover {
   background-color: #555;
 }
 
-.resultado {
-  font-size: 18px;
-  font-weight: bold;
+/* novo */
+.display {
+  background: black;
+  color: white;
+  padding: 10px;
+  margin-bottom: 10px;
+  text-align: right;
+  font-size: 20px;
 }
